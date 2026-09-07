@@ -1,0 +1,41 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary / editor files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+~$*
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Draft/private folders
+drafts/
+private/
+
+# Local environment / sensitive files
+.env
+.env.*
+*.key
+*.pem
+
+# Office temporary files
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+~$*.xls
+~$*.xlsx
